@@ -1,8 +1,8 @@
 BFI: Brainfuck Interpreter
 ===========
 This is a "lightweight, embeddable Brainfuck interpreter written in C" forked from
-	Fabian M. https://www.github.com/FabianM  mail.fabianm@gmail.com
-	aliclubb https://www.github.com/aliclubb
+* Fabian M. https://www.github.com/FabianM  mail.fabianm@gmail.com
+* aliclubb https://www.github.com/aliclubb
 
 ##Rewrited | edited by
 	https://github.com/vortexxx192
