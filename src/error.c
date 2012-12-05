@@ -5,6 +5,6 @@
 
 /* throwing an error to stdout */
 void error( const char* msg ) {
-	printf("Error: %s.\n", msg);	/* I prefer fprintf instead of printf */
+	printf("Error: %s.\n", msg);
 	exit(EXIT_FAILURE);
 }
