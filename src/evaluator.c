@@ -8,7 +8,7 @@
 void brainfuck_eval( const char* code ) {
 	int tape[ MAX_CELLS ];
 
-	int pointer = 0;		/* position in [tape] array */
+	int pointer = 0;	/* position in [tape] array */
 	int char_pointer = 0;	/* position in [code] array */
 	int length = strlen( code );
 
