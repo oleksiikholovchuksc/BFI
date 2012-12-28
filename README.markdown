@@ -1,4 +1,5 @@
-BFI: Brainfuck Interpreter
+#BFI: Brainfuck Interpreter
+##Make brainfuck, not war
 ===========
 This is a Brainfuck interpreter written in C. 
 It is as slow and buggy as I could make (I have worked hard for this, really).
